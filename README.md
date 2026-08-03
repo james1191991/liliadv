@@ -1,3 +1,3 @@
 # liliadv
 
-[LiLy's Sky Adventure](liliadv-web/liliadv.html)
+[Lily's Sky Adventure](liliadv-web/liliadv.html)
